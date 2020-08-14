@@ -16,7 +16,7 @@ export default createGlobalStyle`
   }
   /* Fonte Padrão da aplicação */
   body, input, button {
-    font-family: 'Roboto Mono',serif;
+    font-family: 'Recursive',serif;
     font-size: 16px;
   }
   /* Configuração padrão das tags que são em negrito */
